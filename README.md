@@ -1,2 +1,2 @@
-# Web-Development Project - A crowdsourcing system for recording and exploiting user activity
+# Web-Development Project - Crowdsourcing System for Recording and Exploiting User Activity
 CEID PROJECT 2020

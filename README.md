@@ -1,6 +1,9 @@
 # Web-Development Project - Crowdsourcing System for Recording and Exploiting User Activity
 CEID PROJECT 2020
 
+The purpose of this project is the development of a complete system for the collection, management, and analysis of crowdsourced information, regarding spatiotemporal human activity data through Google Location History.
+In this context, the development of the crowd-sourcing system can work for the city of Patras. In the system, there are two types of users: Administrator and User.
+
 # Admin
 The Administrator gains access to the system with a computer, through an appropriate mechanism username/password. When entering the system it has the following capabilities.
 

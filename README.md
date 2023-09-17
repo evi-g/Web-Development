@@ -42,6 +42,7 @@ The user connects to the system via a desktop computer or smartphone and has the
 - The percentage of registrations by type of activity
 - The time of day with the most registrations per type of activity
 - The day of the week with the most registrations per type of activity
+
 A heatmap is also displayed showing the locations of the specific user only and for the selected period.
 
 4. Upload data. Users can select any data file to upload to the Database.

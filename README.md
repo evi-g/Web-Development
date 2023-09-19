@@ -1,4 +1,4 @@
-# Web-Development Project - Crowdsourcing System for Recording and Exploiting User Activity
+# Web Development Project - Crowdsourcing System for Recording and Exploiting User Activity
 CEID PROJECT 2020
 
 The purpose of this project is the development of a complete system for the collection, management, and analysis of crowdsourced information, regarding spatiotemporal human activity data through Google Location History (takeout.google.com).
@@ -49,3 +49,23 @@ The user connects to the system via a desktop computer or smartphone and has the
    
   - The system automatically "cuts" (does not enter) data that does not concern the city of Patras (>10km from coordinates 38.230462,21.753150).
   - To protect his privacy, the user may not wish to upload data from certain areas, therefore he may select, before submission, and using the map screen, one or more areas for which he does not wish data to be submitted (setting e.g. click-and-drag rectangular areas).
+
+
+Admin
+Username: admin
+Password: administrator
+
+User 1 
+Username: evi
+Password: @Evi12345
+
+User 2
+Username: xara 
+Password: @Xara12345
+
+User 3
+Username: giorgos 
+Password: @Giorgos12345
+
+
+Κωδικός Upload: Nk5CeDFERmhBeVluS0FjY3FpMVA0K21YS1dNd3V6TmVRRFR0cGkyblhPTT06OhkkTGZbeg1XnStRhBSJRE0=

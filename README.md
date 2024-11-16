@@ -1,5 +1,5 @@
-# Web Development Project - Crowdsourcing System for Recording and Exploiting User Activity
-CEID PROJECT 2020
+# Project on "Web Programming and Systems" - Crowdsourcing System for Recording and Exploiting User Activity
+CEID PROJECT 2020 at the University of Patras
 
 The purpose of this project is the development of a complete system for the collection, management, and analysis of crowdsourced information, regarding spatiotemporal human activity data through Google Location History (takeout.google.com).
 In this context, the development of the crowd-sourcing system can work for the city of Patras. In the system, there are two types of users: Administrator and User.
